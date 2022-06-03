@@ -19,3 +19,4 @@ stage ('Code Quality'){
             }
         }
 }
+}
